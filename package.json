@@ -1,0 +1,27 @@
+{
+  "name": "ifconfig",
+  "version": "0.0.0",
+  "description": "ifconfig port for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorkie/node-ifconfig.git"
+  },
+  "keywords": [
+    "ifconfig",
+    "command",
+    "linux"
+  ],
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/node-ifconfig/issues"
+  },
+  "homepage": "https://github.com/yorkie/node-ifconfig",
+  "dependencies": {
+    "ifconfig-parser": "~0.0.0"
+  }
+}
