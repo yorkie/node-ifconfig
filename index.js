@@ -12,6 +12,4 @@ function getConfig(callback) {
   });
 }
 
-getConfig(function(err, config) {
-  console.log(config);
-});
+module.exports = getConfig;

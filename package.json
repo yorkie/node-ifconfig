@@ -1,6 +1,6 @@
 {
   "name": "ifconfig",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ifconfig port for nodejs",
   "main": "index.js",
   "scripts": {
